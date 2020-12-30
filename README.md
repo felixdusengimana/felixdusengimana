@@ -1,5 +1,4 @@
-### Hi there 👋
-### Hi there, I'm Phelix Dusengimana
+### Hi there 👋 I'm Phelix Dusengimana
 
 
 ### Connect with me:

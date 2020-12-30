@@ -1,12 +1,10 @@
 ### Hi there 👋 I'm Phelix Dusengimana
 
-Software engineer and Full Stack Developer 
-###
-Reactjs and nodejs enthusiast
+>Software engineer and Full Stack Developer,
+>*Reactjs and nodejs enthusiast*
 
-##
-
-### Connect with me:
+### Wanna talk to me 
+# Catch me on the following social medias #
 
 [<img align="left" alt="Didien | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Didien | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

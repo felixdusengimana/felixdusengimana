@@ -40,7 +40,7 @@ ___
 
 |My overall statistics|Top languages |
 |------------------|-------------|
-|![Phelix Dusengimana's github stats](https://github-readme-stats.vercel.app/api?username=phelixdusengimana&show_icons=true&count_private=true&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=ffffffc2&icon_color=00ffdce6)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phelixdusengimana&langs_count=100&layout=compact&count_private=true)|
+|![Phelix Dusengimana's github stats](https://github-readme-stats.vercel.app/api?username=phelixdusengimana&show_icons=true&count_private=true&bg_color=30,3f7dfb,3f7dfb&title_color=ffffff&text_color=ffffffc2&icon_color=deed00)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phelixdusengimana&langs_count=100&layout=compact&count_private=true)|
 
 
 [twitter]: https://twitter.com/phelix__dusenge

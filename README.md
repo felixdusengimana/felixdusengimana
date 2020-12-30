@@ -1,43 +1,46 @@
+### Hi there 👋
+- I am Didier Felix
+- 🔭 I’m Software developer.
+- Currently using Nodejs and Spring for Backend Development
+with using Vue, React and Svelte for Frontend Development
+- 👯 I’m looking to collaborate with other content creators and tech staffs.
+- 💬 Ask me about future of Coding
+- 🥅 Forward Looking Goals: Contribute more to Open Source projects and keep growing in this software development career
 
-<h1 align="center">Hey there, I'm Phelix Dusengimana</h1>
+### Connect with me:
 
+[<img align="left" alt="Didien | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Didien | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Didien | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+
+<br />
+
+
+### Languages and Tools:  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://avatars1.githubusercontent.com/u/28507035?s=200&v=4"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://fivethree.gallerycdn.vsassets.io/extensions/fivethree/vscode-svelte-snippets/0.5.0/1594651938076/Microsoft.VisualStudio.Services.Icons.Default"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
 <br/>
-<h6 align="center"></h6>
- <br/>
-
-
-<h3>Github Stats</h3>
-
-
-|My overall statistics|Top languages |
-|------------------|-------------|
-![Ntwari Clarance Liberiste's github stats](https://github-readme-stats.vercel.app/api?username=phelixdusengimana&show_icons=true&count_private=true&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=ffffffc2&icon_color=00ffdce6)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phelixdusengimana&langs_count=100&layout=compact&count_private=true)|
-
-<h5 align="center"><em>Connect with me.</em></h5>
-
-<p align="center">
- 
-  <a href="https://github.com/makuzaverite?tab=followers">
-    <img src="https://img.shields.io/github/followers/phelixdusengimana?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  
-   <a href="http://twitter.com/makuza_mugabo_v">
-    <img src="https://img.shields.io/twitter/follow/phelix__dusenge?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
- 
- <a href="https://www.linkedin.com/in/phelix-dusengimana-70a314201/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+<a href="https://github.com/didiermunezer38">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didiermunezer38&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/didiermunezer38">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=didiermunezer38&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&theme=light" alt="Didien's github stats"/>
 </a>
 
-<!---<a href="https://dev.to/mugaboverite" target="_blank">
-   <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=for-the-badge&logo=DEV.to&logoColor=white" alt="DEV.to">
-</a>-->
 
 
-<!---<a href="https://codepen.io/makuza-mugabo-verite" target="_blank">
-   <img src="https://img.shields.io/badge/Codepen-%230A0A0A.svg?&style=for-the-badge&logo=Codepen&logoColor=white" alt="Codepen">
-</a>-->
- 
- 
-</p>
-<!-- <p align="center"> <img src=https://komarev.com/ghpvc/?username=makuzaverite alt=makuzaverite/> </p> -->
+[twitter]: https://twitter.com/DidierMUNEZERO4
+[linkedin]: https://www.linkedin.com/in/didier-munezero-07b849194/
+[github]: https://www.github.com/in/didiermunezer38/
+
+

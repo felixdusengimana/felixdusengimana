@@ -8,10 +8,10 @@ ___
 
 [<img align="left" alt="Phelix Dusengimana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Phelix Dusengimana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Phelix Dusengimana | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][github]
-[<img align="left" alt="Phelix Dusengimana | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />][github]
-[<img align="left" alt="Phelix Dusengimana | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/skype.svg" />][github]
-[<img align="left" alt="Phelix Dusengimana | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][github]
+[<img align="left" alt="Phelix Dusengimana | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Phelix Dusengimana | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />][behance]
+[<img align="left" alt="Phelix Dusengimana | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/skype.svg" />][skype]
+[<img align="left" alt="Phelix Dusengimana | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Phelix Dusengimana | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 <br/>
 ___
@@ -35,8 +35,10 @@ ___
 </p>
 
 
-[twitter]: https://twitter.com/DidierMUNEZERO4
-[linkedin]: https://www.linkedin.com/in/didier-munezero-07b849194/
-[github]: https://www.github.com/in/didiermunezer38/
-
-
+[twitter]: https://twitter.com/phelix__dusenge
+[linkedin]: https://www.linkedin.com/in/phelix-dusengimana-70a314201/
+[github]: https://www.github.com/in/phelixdusengimana/
+[facebook]: https://www.github.com/in/phelixdusengimana/
+[behance]: https://www.github.com/in/phelixdusengimana/
+[youtube]: https://www.github.com/in/phelixdusengimana/
+[skype]: https://www.github.com/in/phelixdusengimana/

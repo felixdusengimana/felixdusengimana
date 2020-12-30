@@ -46,7 +46,7 @@ ___
 [twitter]: https://twitter.com/phelix__dusenge
 [linkedin]: https://www.linkedin.com/in/phelix-dusengimana-70a314201/
 [github]: https://github.com/phelixdusengimana/
-[facebook]: https://www.github.com/in/phelixdusengimana/
-[behance]: https://www.github.com/in/phelixdusengimana/
+[facebook]: https://www.facebook.com/phelix.dusengimana
+[behance]: https://www.behance.net/phelixdusengi
 [youtube]: https://www.github.com/in/phelixdusengimana/
 [skype]: https://www.github.com/in/phelixdusengimana/

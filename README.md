@@ -7,12 +7,11 @@
 
 
 <h3>Github Stats</h3>
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=phelixdusengimana&count_private=true&show_icons=true&include_all_commits=true&width=100%"  width="100%"/> -->
-  <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=phelixdusengimana&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&theme=tokyonight" /></p>
 
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=phelixdusengimana&show_icons=true&count_private=true" />-->
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelixdusengimana&layout=compact" />-->
-  </p>
+
+|My overall statistics|Top languages |
+|------------------|-------------|
+![Ntwari Clarance Liberiste's github stats](https://github-readme-stats.vercel.app/api?username=phelixdusengimana&show_icons=true&count_private=true&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=ffffffc2&icon_color=00ffdce6)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phelixdusengimana&langs_count=100&layout=compact&count_private=true)|
 
 <h5 align="center"><em>Connect with me.</em></h5>
 

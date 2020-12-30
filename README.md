@@ -3,7 +3,7 @@
 >Software engineer and Full Stack Developer
 >*Reactjs and nodejs enthusiast*
 ___
-### Wanna talk to me 
+### ✉️ Wanna talk to me 
 `Here you are`, *fell free to talk to me anything you want*.
 
 [<img align="left" alt="Phelix Dusengimana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -17,7 +17,7 @@ ___
 ___
 
 
-### Languages and Tools I Usually use
+### 🧰 Languages and Tools I Usually use
 *here is few of* `Tools and Languages` *I usually use but there is many more* 
 <br/>
 **For more details visit:** 
@@ -36,9 +36,12 @@ ___
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">&emsp;
 </p>
 
-<br/>
+### :trophy: About My Github
 
-***
+|My overall statistics|Top languages |
+|------------------|-------------|
+|![Phelix Dusengimana's github stats](https://github-readme-stats.vercel.app/api?username=ntwaricliberi&show_icons=true&count_private=true&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=ffffffc2&icon_color=00ffdce6)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntwaricliberi&langs_count=100&layout=compact&count_private=true)|
+
 
 [twitter]: https://twitter.com/phelix__dusenge
 [linkedin]: https://www.linkedin.com/in/phelix-dusengimana-70a314201/

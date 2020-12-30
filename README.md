@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Phelix Dusengimana
+### Hi there 👋 I'm [Phelix][website] Dusengimana
 
 >Software engineer and Full Stack Developer
 >*Reactjs and nodejs enthusiast*
@@ -52,3 +52,4 @@ ___
 [behance]: https://www.behance.net/phelixdusengi
 [youtube]: https://www.github.com/in/phelixdusengimana/
 [skype]: https://www.github.com/in/phelixdusengimana/
+[website]: https://phelixdusengimana.netlify.app/

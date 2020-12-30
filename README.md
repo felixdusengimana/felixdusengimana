@@ -20,7 +20,7 @@ ___
 ### Languages and Tools I Usually use
 *here is few of* `Tools and Languages` *I usually use but there is many more* 
 <br/>
-**For more details visit:** https://phelixdusengimana.netlify.app/
+**For more details visit:** 
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">&emsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">&emsp;
@@ -34,9 +34,11 @@ ___
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">&emsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">&emsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">&emsp;
-
 </p>
 
+<br/>
+
+***
 
 [twitter]: https://twitter.com/phelix__dusenge
 [linkedin]: https://www.linkedin.com/in/phelix-dusengimana-70a314201/

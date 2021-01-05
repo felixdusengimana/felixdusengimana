@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm [Phelix][website] Dusengimana
 
 >Software engineer and Full Stack Developer
->*Reactjs and nodejs enthusiast*
+>*Reactjs and nodejs enthusiast*🖥🖱🎹
 ___
 ### ✉️ Wanna talk to me 
 `Here you are`, *fell free to talk to me anything you want*.

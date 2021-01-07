@@ -3,7 +3,7 @@
 >Software engineer and Full Stack Developer
 >*Reactjs and nodejs enthusiast*🖥🖱🎹
 ___
-### ✉️ Wanna talk to me 
+### 🖥 Wanna talk to me 
 `Here you are`, *fell free to talk to me anything you want*.
 
 [<img align="left" alt="Phelix Dusengimana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

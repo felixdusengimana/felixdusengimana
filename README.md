@@ -50,5 +50,4 @@ ___
 [github]: https://github.com/phelixdusengimana/
 [facebook]: https://www.facebook.com/phelix.dusengimana
 [behance]: https://www.behance.net/phelixdusengi
-[youtube]: https://www.github.com/in/phelixdusengimana/
 [website]: https://phelixdusengimana.netlify.app/

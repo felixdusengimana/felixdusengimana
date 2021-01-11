@@ -10,7 +10,6 @@ ___
 [<img align="left" alt="Phelix Dusengimana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Phelix Dusengimana | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Phelix Dusengimana | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />][behance]
-[<img align="left" alt="Phelix Dusengimana | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/skype.svg" />][skype]
 [<img align="left" alt="Phelix Dusengimana | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 <br/>
 ___

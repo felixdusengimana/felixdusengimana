@@ -15,7 +15,7 @@ ___
 ___
 
 
-### 👨‍💻 Languages and Tools I Usually use
+### 👨‍💻 Languages and Tools I Currently use
 *here is few of* `Tools and Languages` *I usually use but there is many more* 
 <br/>
 **For more details visit:** 

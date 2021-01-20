@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Phelix][website]  Dusengimana
+### Hi there 👋 I'm [Phelix][website] Dusengimana
 
 >Software engineer and Full Stack Developer
 >*Reactjs and nodejs enthusiast*🖥🖱🎹

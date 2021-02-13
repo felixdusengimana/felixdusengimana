@@ -41,8 +41,9 @@ ___
 |![Phelix Dusengimana's github stats](https://github-readme-stats.vercel.app/api?username=phelixdusengimana&show_icons=true&count_private=true&bg_color=30,3f7dfb,3f7dfb&title_color=ffffff&text_color=ffffffc2&icon_color=deed00)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phelixdusengimana&langs_count=100&count_private=true)|
 
 ### 😎 My Work so far.
+[My Portfolio][website]<br/>
 [1. Kinpad][kinpad] <br/>
-2. Boogiee
+[2. Boogiee][boogiee] <br/>
 
 <br/>👏 **Thank you for reading my Github Profile** ✌ 
 
@@ -50,7 +51,7 @@ ___
 [linkedin]: https://www.linkedin.com/in/phelix-dusengimana-70a314201/
 [github]: https://github.com/phelixdusengimana/
 [facebook]: https://www.facebook.com/phelix.dusengimana
-[instagram]: https://www.behance.net/phelixdusengi
+[instagram]: https://www.instagram.com/phelix.dusengimana/
 [website]: https://phelixdusengimana.netlify.app/
 [kinpad]: https://kinpad.netlify.app/
-[boogiee]: 
+[boogiee]: https://boogiee.netlify.app/

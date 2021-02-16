@@ -42,9 +42,9 @@ ___
 ### 😎 My Work so far.
 | Project Name | Project Description |
 |--------------|---------------------|
-|[0. My Portfolio][website]|
-|[1. Kinpad][kinpad]|
-|[2. Boogiee][boogiee]|
+|[0. My Portfolio][website]| This is a website for providing more details about my life struggles as a software engineer and also about my real life.|
+|[1. Kinpad][kinpad]||
+|[2. Boogiee][boogiee]||
 
 <br/>👏 **Thank you for reading my Github Profile** ✌ 
 

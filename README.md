@@ -41,6 +41,7 @@ ___
 
 ### 😎 My Work so far.
 | Project Name | Project Description |
+|--------------|---------------------|
 [0. My Portfolio][website]<br/>
 [1. Kinpad][kinpad] <br/>
 [2. Boogiee][boogiee] <br/>

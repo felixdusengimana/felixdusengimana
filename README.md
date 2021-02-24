@@ -53,6 +53,6 @@ ___
 [github]: https://github.com/phelixdusengimana/
 [facebook]: https://www.facebook.com/phelix.dusengimana
 [instagram]: https://www.instagram.com/phelix.dusengimana/
-[website]: https://phelixdusengimana.netlify.app/
+[website]: https://phelixdusengimanaweb.vercel.app/
 [kinpad]: https://kinpad.netlify.app/
 [boogiee]: https://boogiee.netlify.app/

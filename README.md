@@ -1,16 +1,6 @@
 <h1 align="center">Hi there, I am <a href="https://phelixdusengimanaweb.vercel.app/" target="__blank">Phelix Dusengimana</a> <img width="25px" src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" alt="Hi from Phelix"/></h1>
 
-___
-### 🖥 Reach me
-`Here you are`, *fell free to talk to me anything you want, anytime*.
-
-[<img align="left" alt="Phelix Dusengimana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Phelix Dusengimana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Phelix Dusengimana | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Phelix Dusengimana | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Phelix Dusengimana | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-<br/>
-___
+<p>18 years old web and mobile application developer from Rwanda <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1280px-Flag_of_Rwanda.svg.png"/></p>
 
 
 ### 👨‍💻 Languages and Tools I Usually use

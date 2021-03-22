@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I am Phelix Dusengimana <img width="25px" src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" alt="Hi from Phelix"/></h1>
->Software engineer and Full Stack Developer,
->*Reactjs and nodejs enthusiast*🖥🖱🎹
+
 ___
 ### 🖥 Reach me
 `Here you are`, *fell free to talk to me anything you want, anytime*.

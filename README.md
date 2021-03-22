@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am <a href="https://phelixdusengimanaweb.vercel.app/">Phelix Dusengimana</a> <img width="25px" src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" alt="Hi from Phelix"/></h1>
+<h1 align="center">Hi there, I am <a href="https://phelixdusengimanaweb.vercel.app/" target="__blank">Phelix Dusengimana</a> <img width="25px" src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" alt="Hi from Phelix"/></h1>
 
 ___
 ### 🖥 Reach me

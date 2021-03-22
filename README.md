@@ -3,7 +3,7 @@
 <p>18 years old web and mobile application developer from Rwanda <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1280px-Flag_of_Rwanda.svg.png"/></p>
 
 ### Connect with me.
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]
 
 
 ### 👨‍💻 Languages and Tools I Usually use

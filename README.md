@@ -4,8 +4,7 @@
 
 ### Connect with me.
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]
-
-
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>][facebook]
 ### 👨‍💻 Languages and Tools I Usually use
 *here is few of* `Tools and Languages` *I usually use but there is many more* 
 <br/>

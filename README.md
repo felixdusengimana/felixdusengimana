@@ -5,6 +5,9 @@
 ### Connect with me.
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>][facebook]
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
+[<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>][codepen]
+[<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>][stackoverflow]
 ### 👨‍💻 Languages and Tools I Usually use
 *here is few of* `Tools and Languages` *I usually use but there is many more* 
 <br/>
@@ -42,8 +45,10 @@
 [twitter]: https://twitter.com/phelix__dusenge
 [linkedin]: https://www.linkedin.com/in/phelix-dusengimana-70a314201/
 [github]: https://github.com/phelixdusengimana/
+[codepen]: https://codepen.io/phelixdusengimana
 [facebook]: https://www.facebook.com/phelix.dusengimana
 [instagram]: https://www.instagram.com/phelix.dusengimana/
+[stackoverflow]: https://stackoverflow.com/users/14571843/phelix-dusengimana
 [website]: https://phelixdusengimanaweb.vercel.app/
 [kinpad]: https://kinpad.netlify.app/
 [boogiee]: https://boogiee.netlify.app/

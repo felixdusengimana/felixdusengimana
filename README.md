@@ -9,18 +9,7 @@
 [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>][stackoverflow]
 
 
-### :trophy: My Github Statistics
-|My overall statistics|Top most languages |
-|------------------|-------------|
-|![Phelix Dusengimana's github stats](https://github-readme-stats.vercel.app/api?username=phelixdusengimana&show_icons=true&count_private=true&bg_color=30,3f7dfb,3f7dfb&title_color=ffffff&text_color=ffffffc2&icon_color=deed00)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phelixdusengimana&langs_count=100&count_private=true)|
 
-### 😎 My Work so far.
-| Project Name      | Project Description |
-|-------------------|---------------------|
-|[ My Portfolio][website]| *This is a website for providing more information about my life struggles as a software engineer Also you get more<br/>informations about my real life, my experiences, my vibes and many more informations you would like to know about me.*|
-|[ Kinpad][kinpad]|Online book reading, sharing and downloading also essays and story sharing all together. |
-|[ musicbox][github]| This project is currently not available.|
-|[Twika][twika]| Online word story positing and question setting for your hommies|
 
 <br/>👏 **Thank you for reading my Github Profile** ✌ 
 

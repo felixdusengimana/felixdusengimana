@@ -18,6 +18,7 @@
 3. [kinpad][kinpad]
 4. [musicbox][musicbox] == Currently being developed
 5. [yange][yange] == currently being developed
+6. [mvstreamer][yange] == currently being developed
 
 [twitter]: https://twitter.com/phelix__dusenge
 [linkedin]: https://www.linkedin.com/in/phelix-dusengimana-70a314201/

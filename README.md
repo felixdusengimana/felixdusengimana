@@ -22,7 +22,7 @@
 
 ### Statistics
 ![Phelix Dusengimana's GitHub stats](https://github-readme-stats.vercel.app/api?username=phelixdusengimana&show_icons=true&theme=radical)
-[![Phelix Dusengimana's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phelixdusengimana)](https://github.com/anuraghazra/github-readme-stats)
+[![Phelix Dusengimana's wakatime stats](https://github-readme-stats.vercel.app/api/phelixdusengimana?username=phelixdusengimana)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [twitter]: https://twitter.com/phelix__dusenge

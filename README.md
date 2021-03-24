@@ -2,9 +2,9 @@
 <h1 align="center">Hi there, I am <a href="https://phelixdusengimanaweb.vercel.app/" target="__blank">Phelix Dusengimana</a> <img width="25px" src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" alt="Hi from Phelix"/></h1>
 
 <p>
-  I'm a high school student who lives in the United States. I'm learning how to code. I love making and designing webpages with HTML and CSS (and possible JavaScript in the future). It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++ and Python because they challenge me more. I love it when I can finally solve a difficult problem.
+I'm a high school student who lives in the Rwanda <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1280px-Flag_of_Rwanda.svg.png"/>. I'm learning how to code. I love making and designing webpages with HTML and CSS and JavaScript. It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++, Java and Python because they challenge me more. I love it when I can finally solve a difficult problem.
 </p>
-<p>18 years old web and mobile application developer from Rwanda <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1280px-Flag_of_Rwanda.svg.png"/></p>
+
 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>][facebook]

@@ -22,11 +22,8 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phelixdusengimana" alt="phelixdusengimana" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/phelix_dusenge" target="blank"><img src="https://img.shields.io/twitter/follow/phelix_dusenge?logo=twitter&style=for-the-badge" alt="phelix_dusenge" /></a> </p>
+<p align="left"> <a href="https://twitter.com/phelix__dusenge" target="blank"><img src="https://img.shields.io/twitter/follow/phelix__dusenge?logo=twitter&style=for-the-badge" alt="phelix__dusenge" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

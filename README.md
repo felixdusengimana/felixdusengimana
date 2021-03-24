@@ -1,9 +1,9 @@
 [<img alt="Phelix Dusengimana" src="https://github.com/phelixdusengimana/phelixdusengimanaweb/blob/main/public/images/1500x500.jfif"/>][website]
 <h1 align="center">Hi there, I am <a href="https://phelixdusengimanaweb.vercel.app/" target="__blank">Phelix Dusengimana</a> <img width="25px" src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" alt="Hi from Phelix"/></h1>
-<h3 align="center">A passionate frontend developer from Rwanda</h3>
+<h3 align="center">A passionate frontend developer from Rwanda <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1280px-Flag_of_Rwanda.svg.png"/></h3>
 <p>
   
-I'm a high school student who lives in the Rwanda <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1280px-Flag_of_Rwanda.svg.png"/>. I'm learning how to code. I love making and designing webpages with HTML and CSS and JavaScript. It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++, Java and Python because they challenge me more. I love it when I can finally solve a difficult problem.
+I'm a high school student who lives in the Rwanda. I'm learning how to code. I love making and designing webpages with HTML and CSS and JavaScript. It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++, Java and Python because they challenge me more. I love it when I can finally solve a difficult problem.
   
 For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
 </p>

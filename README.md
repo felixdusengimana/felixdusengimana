@@ -16,6 +16,8 @@
 1. [Phelix Dusengimana][website]
 2. [Twika][twika]
 3. [kinpad][kinpad]
+4. [musicbox][musicbox] Currently being developed
+5. [yange][yange] currently being developed
 
 [twitter]: https://twitter.com/phelix__dusenge
 [linkedin]: https://www.linkedin.com/in/phelix-dusengimana-70a314201/
@@ -26,5 +28,5 @@
 [stackoverflow]: https://stackoverflow.com/users/14571843/phelix-dusengimana
 [website]: https://phelixdusengimanaweb.vercel.app/
 [kinpad]: https://kinpad.netlify.app/
-[boogiee]: https://boogiee.netlify.app/
+[musicbox]: https://musicbox.netlify.app/
 [twika]: https://ao-td.netlify.app

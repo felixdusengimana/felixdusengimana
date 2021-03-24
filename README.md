@@ -35,9 +35,8 @@ For my programming projects, I usually only upload to Github once I make signifi
 6. [mvstreamer][yange] == currently being developed
 
 ### Statistics
-|![Phelix Dusengimana's GitHub stats](https://github-readme-stats.vercel.app/api?username=phelixdusengimana&show_icons=true&theme=radical)|
-|[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/phelixdusengimana?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)|
-
+![Phelix Dusengimana's GitHub stats](https://github-readme-stats.vercel.app/api?username=phelixdusengimana&show_icons=true&theme=radical)
+![Phelix Most Programming languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=rjoydip)
 
 [twitter]: https://twitter.com/phelix__dusenge
 [linkedin]: https://www.linkedin.com/in/phelix-dusengimana-70a314201/

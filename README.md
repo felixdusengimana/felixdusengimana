@@ -16,8 +16,8 @@
 1. [Phelix Dusengimana][website]
 2. [Twika][twika]
 3. [kinpad][kinpad]
-4. [musicbox][musicbox] Currently being developed
-5. [yange][yange] currently being developed
+4. [musicbox][musicbox] == Currently being developed
+5. [yange][yange] == currently being developed
 
 [twitter]: https://twitter.com/phelix__dusenge
 [linkedin]: https://www.linkedin.com/in/phelix-dusengimana-70a314201/

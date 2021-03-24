@@ -8,13 +8,13 @@ For my programming projects, I usually only upload to Github once I make signifi
 </p>
 
 - 🧐 Interested in full stack. Recent focus on backend.
-- 💼 Senior Back End Engineer at Alibaba Group.
-- 🎓 Bachelor of Engineering in Computer Science and Engineering, Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.
-- 🌱 Currently learning Math & Philosophy.
+- 💼 Junior Front End Engineer.
+- 🎓 Bachelor of Engineering in Computer Science and Engineering.
+- 🌱 Currently learning Math & Physics.
 - 📚 Reading more about Apple, Harry Potter and how the computer works.
-- 💻 With 4 years' computer science and technology education and 5 years' development working experience.
+- 💻 With 3 years' computer science and technology education and 1 years' development working experience.
 - ⛵ Encouraging people for open source collaborations.
-- ✍🏻 I write my personal thoughts on Programming & Tech in my Personal Blog(Cumulative 3.64 million PV / 1.06 million UV).
+- ✍🏻 I write my personal thoughts on Programming & Tech in my [Personal Blog][website].
 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>][facebook]

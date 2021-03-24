@@ -3,6 +3,8 @@
 
 <p>
 I'm a high school student who lives in the Rwanda <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1280px-Flag_of_Rwanda.svg.png"/>. I'm learning how to code. I love making and designing webpages with HTML and CSS and JavaScript. It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++, Java and Python because they challenge me more. I love it when I can finally solve a difficult problem.
+  
+For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
 </p>
 
 

@@ -20,6 +20,9 @@
 5. [yange][yange] == currently being developed
 6. [mvstreamer][yange] == currently being developed
 
+### Statistics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 [twitter]: https://twitter.com/phelix__dusenge
 [linkedin]: https://www.linkedin.com/in/phelix-dusengimana-70a314201/
 [github]: https://github.com/phelixdusengimana/

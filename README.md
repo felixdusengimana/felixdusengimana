@@ -17,7 +17,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 - ⛵ Encouraging people for open source collaborations.
 - ✍🏻 I write my personal thoughts on Programming & Tech in my [Personal Blog][website].
 
-[//]: <> (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phelixdusengimana" alt="phelixdusengimana" /></a> </p>)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phelixdusengimana" alt="phelixdusengimana" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/phelix__dusenge" target="blank"><img src="https://img.shields.io/twitter/follow/phelix__dusenge?logo=twitter&style=for-the-badge" alt="phelix__dusenge" /></a> </p>
 
@@ -42,10 +42,10 @@ For my programming projects, I usually only upload to Github once I make signifi
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phelixdusengimana&label=Profile%20views&color=0e75b6&style=flat" alt="phelixdusengimana" /> </p>
 
 [//]: <> (
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phelixdusengimana&show_icons=true&locale=en&layout=compact" alt="phelixdusengimana" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phelixdusengimana&show_icons=true&locale=en&layout=compact" alt="phelixdusengimana" /></p>)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phelixdusengimana&show_icons=true&locale=en" alt="phelixdusengimana" /></p>
-)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phelixdusengimana&" alt="phelixdusengimana" /></p>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/phelixdusen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="phelixdusen" /></a></p><br><br>

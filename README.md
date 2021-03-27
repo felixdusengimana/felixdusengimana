@@ -41,8 +41,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phelixdusengimana&label=Profile%20views&color=0e75b6&style=flat" alt="phelixdusengimana" /> </p>
 
-[//]: <> (
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phelixdusengimana&show_icons=true&locale=en&layout=compact" alt="phelixdusengimana" /></p>)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phelixdusengimana&show_icons=true&locale=en&layout=compact" alt="phelixdusengimana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phelixdusengimana&show_icons=true&locale=en" alt="phelixdusengimana" /></p>
 

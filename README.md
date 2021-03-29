@@ -47,7 +47,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phelixdusengimana&" alt="phelixdusengimana" /></p>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/phelixdusen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="phelixdusen" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/phelixdusen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="phelixdusen" /></a></p><br>
 
 [twitter]: https://twitter.com/phelix__dusenge
 [linkedin]: https://www.linkedin.com/in/phelix-dusengimana-70a314201/

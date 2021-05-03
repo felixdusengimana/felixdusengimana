@@ -20,7 +20,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 <p align="left"> <a href="https://twitter.com/phelix__dusenge" target="blank"><img src="https://img.shields.io/twitter/follow/phelix__dusenge?logo=twitter&style=for-the-badge" alt="phelix__dusenge" /></a> </p>
 
-### Projects that I've made
+##### My works
 - [kinpad][kinpad].
 - [Twika][twika]
 - [Blog][website]

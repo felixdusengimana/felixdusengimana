@@ -21,7 +21,9 @@ For my programming projects, I usually only upload to Github once I make signifi
 <p align="left"> <a href="https://twitter.com/phelix__dusenge" target="blank"><img src="https://img.shields.io/twitter/follow/phelix__dusenge?logo=twitter&style=for-the-badge" alt="phelix__dusenge" /></a> </p>
 
 ### Projects that I've made
-⋅⋅* [Kinpad][kinpad]
+- [kinpad][kinpad].
+- [Twika][twika]
+- [Blog][website]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/phelixdusengimana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="phelixdusengimana" height="30" width="40" /></a>

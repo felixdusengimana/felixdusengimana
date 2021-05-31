@@ -22,12 +22,13 @@
 - [Twika][twika]
 - [Rconnect][rconnect]
 - [Blog][website]
-
+<!--
 ### Comming Soon
 - [Music Box][f]
 - [Birthday][n]
 - [Yange][b]
 - [blogger][n]
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/phelixdusengimana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="phelixdusengimana" height="30" width="40" /></a>

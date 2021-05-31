@@ -16,13 +16,13 @@
 
 
 <p align="left"> <a href="https://twitter.com/phelix__dusenge" target="blank"><img src="https://img.shields.io/twitter/follow/phelix__dusenge?logo=twitter&style=for-the-badge" alt="phelix__dusenge" /></a> </p>
-
+<!--
 ##### My works
 - [kinpad][kinpad].
 - [Twika][twika]
 - [Rconnect][rconnect]
 - [Blog][website]
-<!--
+
 ### Comming Soon
 - [Music Box][f]
 - [Birthday][n]

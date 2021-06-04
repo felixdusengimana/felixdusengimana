@@ -16,6 +16,11 @@
 
 
 <p align="left"> <a href="https://twitter.com/phelix__dusenge" target="blank"><img src="https://img.shields.io/twitter/follow/phelix__dusenge?logo=twitter&style=for-the-badge" alt="phelix__dusenge" /></a> </p>
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Phelix Dusengimana Spotify Playing" width="350" />](https://open.spotify.com/user/ubynhnafhcrug30vsvkzp7ec2)
+
 <!--
 ##### My works
 - [kinpad][kinpad].

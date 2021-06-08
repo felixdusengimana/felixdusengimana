@@ -45,7 +45,7 @@
 <a href="https://dribbble.com/phelix__dusenge" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="phelix__dusenge" height="30" width="40" /></a>
 <a href="https://www.behance.net/phelixdusengi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="phelixdusengi" height="30" width="40" /></a>
 <a href="https://medium.com/@phelixdusengimana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@phelixdusengimana" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/phelix dusengimana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="phelix dusengimana" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCF6UfEmWBL0gUg9cesEQxMw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="phelix dusengimana" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/phelixdusengima1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="phelixdusengima1" height="30" width="40" /></a>
 </p>
 

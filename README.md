@@ -38,7 +38,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/phelixdusengimana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="phelixdusengimana" height="30" width="40" /></a>
-<a href="https://twitter.com/phelix_dusenge" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="phelix_dusenge" height="30" width="40" /></a>
+<a href="https://twitter.com/intent/follow?screen_name=phelix__dusenge" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="phelix_dusenge" height="30" width="40" /></a>
 <a href="https://codesandbox.com/phelixdusengimana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="phelixdusengimana" height="30" width="40" /></a>
 <a href="https://fb.com/phelix.dusengimana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="phelix.dusengimana" height="30" width="40" /></a>
 <a href="https://instagram.com/phelix.dusengimana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="phelix.dusengimana" height="30" width="40" /></a>

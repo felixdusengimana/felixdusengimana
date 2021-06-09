@@ -15,7 +15,7 @@
 - ✍🏻 I write my personal thoughts on Programming & Tech in my [Personal Blog][website].
 
 
-<p align="left"> <a href="https://twitter.com/phelix__dusenge" target="blank"><img src="https://img.shields.io/twitter/follow/phelix__dusenge?logo=twitter&style=for-the-badge" alt="phelix__dusenge" /></a> </p>
+<p align="left"> <a href="https://img.shields.io/twitter/follow/phelix__dusenge?style=social" target="blank"><img src="https://img.shields.io/twitter/follow/phelix__dusenge?logo=twitter&style=for-the-badge" alt="phelix__dusenge" /></a> </p>
 
 ### Spotify Playing 🎧
 

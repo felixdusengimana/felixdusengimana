@@ -52,6 +52,8 @@
 <!--<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/phelixdusen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="phelixdusen" /></a></p><br>-->
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+
 [twitter]: https://twitter.com/phelix__dusenge
 [linkedin]: https://www.linkedin.com/in/phelix-dusengimana-70a314201/
 [github]: https://github.com/phelixdusengimana/

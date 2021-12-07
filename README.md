@@ -24,11 +24,13 @@
 - [Rconnect][rconnect]
 - [Blog][website]
 
+<!--
 ### Comming Soon
 - [Music Box][f]
 - [Birthday][n]
 - [Yange][b]
 - [blogger][n]
+-->
 
 
 ### Spotify Playing 🎧

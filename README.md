@@ -21,7 +21,7 @@
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/ubynhnafhcrug30vsvkzp7ec2)
 
-<!--
+
 ##### My works
 - [kinpad][kinpad].
 - [Twika][twika]
@@ -33,7 +33,7 @@
 - [Birthday][n]
 - [Yange][b]
 - [blogger][n]
--->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -17,10 +17,6 @@
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=phelix__dusenge" target="blank"><img src="https://img.shields.io/twitter/follow/phelix__dusenge?logo=twitter&style=for-the-badge" alt="phelix__dusenge" /></a> </p>
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/ubynhnafhcrug30vsvkzp7ec2)
-
 
 ##### My works
 - [kinpad][kinpad].
@@ -34,6 +30,10 @@
 - [Yange][b]
 - [blogger][n]
 
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/ubynhnafhcrug30vsvkzp7ec2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

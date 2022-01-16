@@ -18,6 +18,8 @@
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=phelix__dusenge" target="blank"><img src="https://img.shields.io/twitter/follow/phelix__dusenge?logo=twitter&style=for-the-badge" alt="phelix__dusenge" /></a> </p>
 
 
+<a href="https://app.daily.dev/phelixdusengima"><img src="https://api.daily.dev/devcards/25654a37f660408ba0a5c69dc5894a48.png?r=c2r" width="400" alt="Phelix Dusengimana's Dev Card"/></a>
+
 ##### My works
 - [kinpad][kinpad].
 - [Twika][twika]

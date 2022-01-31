@@ -2,11 +2,10 @@
 <h1 align="">Hi there, I am <a href="https://phelixdusengimanaweb.vercel.app/" target="__blank">Phelix Dusengimana</a> <img width="25px" src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" alt="Hi from Phelix"/></h1>
 <h3 align="">A passionate frontend developer from Rwanda <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1280px-Flag_of_Rwanda.svg.png"/></h3>
 
-<!---<p>I'm a high school student who lives in the Rwanda. I'm learning how to code. I love making and designing webpages with HTML and CSS and JavaScript. It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++, Java and Python because they challenge me more. I love it when I can finally solve a difficult problem. For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
-</p>--->
+<p>I'm a high school student who lives in the Rwanda. I'm learning how to code. I love making and designing webpages with HTML and CSS and JavaScript. It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++, Java and Python because they challenge me more. I love it when I can finally solve a difficult problem. For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
+</p>
 
 
-<!---
 - 🧐 Interested in full stack. Recent focus on backend.
 - 💼 Junior Front End Engineer.
 - 🎓 Bachelor of Engineering in Computer Science and Engineering.
@@ -15,7 +14,7 @@
 - 💻 With 3 years' computer science and technology education and 1 years' development working experience.
 - ⛵ Encouraging people for open source collaborations.
 - ✍🏻 I write my personal thoughts on Programming & Tech in my [Personal Blog][website].
---->
+
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=phelix__dusenge" target="blank"><img src="https://img.shields.io/twitter/follow/phelix__dusenge?logo=twitter&style=for-the-badge" alt="phelix__dusenge" /></a> </p>
 
@@ -38,10 +37,11 @@
 - [blogger][n]
 -->
 
-
+<!--
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/ubynhnafhcrug30vsvkzp7ec2)
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -18,6 +18,17 @@
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=phelix__dusenge" target="blank"><img src="https://img.shields.io/twitter/follow/phelix__dusenge?logo=twitter&style=for-the-badge" alt="phelix__dusenge" /></a> </p>
 
+<details>
+  <summary>Click to see my Github Statistics</summary>
+  
+  ## Stats
+  ![Phelix Dusengimana's GitHub stats](https://github-readme-stats.vercel.app/api?username=phelixdusengimana&show_icons=true&theme=radical)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phelixdusengimana&layout=compact)](https://github.com/phelixdusengimana)
+
+
+</details>
+
+
 <!-- <a href="https://app.daily.dev/phelixdusengima"><img src="https://api.daily.dev/devcards/25654a37f660408ba0a5c69dc5894a48.png?r=c2r" width="400" alt="Phelix Dusengimana's Dev Card"/></a> -->
 
 
@@ -57,8 +68,9 @@
 <a href="https://www.hackerrank.com/phelixdusengima1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="phelixdusengima1" height="30" width="40" /></a>
 </p>
 
-<!--<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/phelixdusen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="phelixdusen" /></a></p><br>-->
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/phelixdusen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="phelixdusen" /></a></p>
+<br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 

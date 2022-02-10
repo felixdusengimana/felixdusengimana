@@ -21,7 +21,7 @@
 <details>
   <summary>Click to see my Github Statistics</summary>
   
-  ## Stats
+  ## Statistics
   ![Phelix Dusengimana's GitHub stats](https://github-readme-stats.vercel.app/api?username=phelixdusengimana&show_icons=true&theme=radical)
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phelixdusengimana&layout=compact)](https://github.com/phelixdusengimana)
 

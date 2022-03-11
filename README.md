@@ -8,7 +8,7 @@
 
 - 🧐 Interested in full stack. Recent focus on backend.
 - 💼 Junior Front End Engineer.
-- 🎓 Bachelor of Engineering in Computer Science and Engineering.
+- 🎓 Diploma of Engineering in Computer Science and Engineering.
 - 🌱 Currently learning Math & Physics.
 - 📚 Reading more about Apple, Harry Potter and how the computer works.
 - 💻 With 3 years' computer science and technology education and 1 years' development working experience.

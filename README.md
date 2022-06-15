@@ -1,4 +1,4 @@
-[<img alt="Felix DUSENGIMANA" src="https://github.com/phelixdusengimana/phelixdusengimana/blob/main/felixdusengimana.jfif"/>][website]
+<!-- [<img alt="Felix DUSENGIMANA" src="https://github.com/phelixdusengimana/phelixdusengimana/blob/main/felixdusengimana.jfif"/>][website]
 <h1 align="">Hi there, I am <a href="https://phelixdusengimanaweb.vercel.app/" target="__blank">Felix DUSENGIMANA</a> 👋</h1>
 <h3 align="">A passionate frontend developer from Rwanda <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1280px-Flag_of_Rwanda.svg.png"/></h3>
 
@@ -13,12 +13,12 @@
 - 📚 Reading more about Apple, Harry Potter and how the computer works.
 - 💻 With 3 years' computer science and technology education and 1 years' development working experience.
 - ⛵ Encouraging people for open source collaborations.
-- ✍🏻 I write my personal thoughts on Programming & Tech in my [Personal Blog][website].
+- ✍🏻 I write my personal thoughts on Programming & Tech in my [Personal Blog][website]. -->
+<!-- 
 
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=phelix__dusenge" target="blank"><img src="https://img.shields.io/twitter/follow/felix__dusenge?logo=twitter&style=for-the-badge" alt="felix__dusenge" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=phelix__dusenge" target="blank"><img src="https://img.shields.io/twitter/follow/felix__dusenge?logo=twitter&style=for-the-badge" alt="felix__dusenge" /></a> </p>
-
-<details>
+<!-- <details>
   <summary>Click to see my Github Statistics</summary>
   
   ## Statistics
@@ -26,7 +26,7 @@
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phelixdusengimana&layout=compact)](https://github.com/phelixdusengimana)
 
 
-</details>
+</details> -->
 
 
 <!-- <a href="https://app.daily.dev/phelixdusengima"><img src="https://api.daily.dev/devcards/25654a37f660408ba0a5c69dc5894a48.png?r=c2r" width="400" alt="Phelix Dusengimana's Dev Card"/></a> -->
@@ -54,7 +54,7 @@
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/ubynhnafhcrug30vsvkzp7ec2)
 -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/phelixdusengimana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="phelixdusengimana" height="30" width="40" /></a>
 <a href="https://twitter.com/intent/follow?screen_name=phelix__dusenge" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="phelix_dusenge" height="30" width="40" /></a>
@@ -66,14 +66,14 @@
 <a href="https://medium.com/@phelixdusengimana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@phelixdusengimana" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCF6UfEmWBL0gUg9cesEQxMw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="phelix dusengimana" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/phelixdusengima1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="phelixdusengima1" height="30" width="40" /></a>
-</p>
+</p> -->
 
-<h3 align="left">Support:</h3>
+<!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/phelixdusen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="phelixdusen" /></a></p>
 <br>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id) -->
+<!-- 
 [twitter]: https://twitter.com/phelix__dusenge
 [linkedin]: https://www.linkedin.com/in/phelix-dusengimana-70a314201/
 [github]: https://github.com/phelixdusengimana/
@@ -89,4 +89,16 @@
 [rconnect]: https://rconnect.netlify.app/start/
 [f]: https://
 [b]: https://
-[n]: https://
+[n]: https:// -->
+
+### Felix is greating you👋
+
+.
+
+.
+
+.
+
+.
+
+Thanks for the visit😍.

@@ -74,7 +74,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id) -->
 <!-- 
-[twitter]: https://twitter.com/phelix__dusenge
+[twitter]: https://twitter.com/felix__dusenge
 [linkedin]: https://www.linkedin.com/in/phelix-dusengimana-70a314201/
 [github]: https://github.com/phelixdusengimana/
 [codepen]: https://codepen.io/phelixdusengimana
@@ -91,7 +91,7 @@
 [b]: https://
 [n]: https:// -->
 
-### [Felix](twitter) is greating you👋
+### [Felix](https://twitter.com/felix__dusenge) is greating you👋
 
 .
 

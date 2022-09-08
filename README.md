@@ -24,7 +24,7 @@
 ```
 [Twitter](https://twitter.com/felix__dusenge)   [Instagram](https://www.instagram.com/felix.dusengimana/)   [Facebook](https://www.facebook.com/phelixdusengimana/)      [Blog](phelix.is-a.dev)
 
-<---
+<!--
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id) 
 <br/>
 Thanks for the visit😍.

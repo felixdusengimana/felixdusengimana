@@ -17,11 +17,7 @@
 
 
 ### [Felix](https://twitter.com/felix__dusenge) is greating you👋
-```
-        .
-      .   .
-    .   .   .
-```
+
 [Twitter](https://twitter.com/felix__dusenge)   [Instagram](https://www.instagram.com/felix.dusengimana/)   [Facebook](https://www.facebook.com/phelixdusengimana/)      [Blog](phelix.is-a.dev)
 
 <!--

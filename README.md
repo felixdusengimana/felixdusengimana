@@ -20,7 +20,7 @@
 
 <!--- [![Felix Dusengimana's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=felixdusengimana&bg_color=2e292b&color=ffffff&line=0040ff&point=dbb80a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)--->
 
-[Twitter](https://twitter.com/felix__dusenge)  [Facebook](https://www.facebook.com/phelixdusengimana/)      [Blog](https://www.feldux.com/blog) [Codepen](https://codepen.io/phelixdusengimana/)
+[Twitter](https://twitter.com/felix__dusenge) [Blog](https://www.feldux.com/blog) [Codepen](https://codepen.io/phelixdusengimana/)
 
 <!--
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id) 
